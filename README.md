@@ -1,4 +1,27 @@
 # Online Shopping platform(E-commerce website)
+eazydeals/
+│
+├── build/
+│   └── classes/
+│       └── com/
+│           └── eazydeals/
+│
+├── src/
+│   └── main/
+│
+├── .classpath
+├── .project
+├── .settings/
+│   ├── org.eclipse.jdt.core.prefs
+│   ├── org.eclipse.wst.common.component
+│   ├── org.eclipse.wst.common.project.facet.core.xml
+│   ├── org.eclipse.wst.jsdt.ui.superType.container
+│   └── org.eclipse.wst.jsdt.ui.superType.name
+│
+├── .jsdtscope
+├── README.md
+├── eazydeals_maven.sql
+
 ## About:
 Welcome to the E-Commerce Website project! This web application is designed to provide a seamless online shopping experience to users while empowering administrators with efficient management tools. The website is built using Java, JSP, Servlet, Html and JDBC technologies, ensuring a robust and scalable foundation for your e-commerce venture.
   
